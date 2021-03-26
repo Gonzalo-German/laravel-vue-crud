@@ -19,9 +19,9 @@
 				</ul>
 			</div>
 			<div class="col-sm-8">
-				<h1>JSON</h1>
+				<h1>JSON VIDEO 2</h1>
 				<pre>
-					@{{ $data | json }}
+					@{{ $data }}
 				</pre>
 			</div>
 		</div>
